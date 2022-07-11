@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on different data mining and data analysis projects , AI projects and also relevant researches
 - 📫 How to reach me : mail me at (ajadidim@yahoo.com)
+- * upcoming codes : energy consumption-based recommender system (case study)
 
 <!---
 alirezajadidimiandashti/alirezajadidimiandashti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
