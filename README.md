@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alirezajadidimiandashti
-- 👀 I’m interested in AI , machin learning , OCR , OLAP , parallel information systems , SQL and etc
+- 👀 I’m interested in AI, IOT, edge computing, programming , machin learning , OCR , OLAP , parallel information systems , SQL and etc
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on different data mining and data analysis projects , AI projects and also relevant researches
 - 📫 How to reach me : mail me at (ajadidim@yahoo.com)
